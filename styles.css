@@ -401,7 +401,7 @@ body {
 /* Responsive para móviles */
 @media (max-width: 768px) {
     .skills-track {
-        animation-duration: 5s;
+        animation-duration: 15s;
     }
     
     .skill-item {
