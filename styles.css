@@ -401,7 +401,7 @@ body {
 /* Responsive para móviles */
 @media (max-width: 768px) {
     .skills-track {
-        animation-duration: 20s;
+        animation-duration: 5s;
     }
     
     .skill-item {
@@ -414,7 +414,7 @@ body {
             transform: translateX(0);
         }
         100% {
-            transform: translateX(calc(-200px * 4));
+            transform: translateX(calc(-216px * 4));
         }
     }
 }
